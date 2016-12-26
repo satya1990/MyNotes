@@ -1,0 +1,69 @@
+
+
+<Eclilpse>
+
+CMD/CTRL + Shift + o   — To import required libraries
+CMD/CTRL + OPT + s     — To open Source
+CTRL + Space 	       — Autofill
+CTRL + d               - delete a line
+CMD/CTRL + x	       — To Captial letters
+CMD/CTRL + y	       — To Small Case letters
+CMD/CTRL + shift +f    — To format/indent code
+CMD/CTRL + L	       — Go to Line Number
+
+
+
+F3 — goes to declaration of variable, ctags (CTRL + })
+
+Refactor
+Rename
+
+</Eclipse>
+11
+static & dynamic binding
+
+package? subpackage? Importing? 
+
+
+Accesss Modifiers.
+
+Object class?? Super parent of All??
+
+10
+Wrapper class Example: Primitive to Wrapper
+Integer.valueOf(x); I.intValue();
+
+20
+Call by Value and Call by Reference in Java?
+
+Java Strictfp Keyword
+
+/** to generate the document api. Now, there will be created a lot of html files. Open the index.html file to get the information about the classes.*/
+
+javadoc M.java
+
+There are many ways to create object in java such as new keyword, newInstance() method, clone() method, factory method and deserialization.
+
+locale???
+
+ListIterator<String> itr=al.listIterator();  
+
+StringBuilder vs StringBuffer vs String?
+
+packages? com.cave.programming (hierarchal packages)
+
+Anonymous Class
+
+
+<serialization>
+Object State is stored.(excludes transient & Static variables)
+
+while de-serializing:
+No constructor will get called. Object will get reConstructed with it’s state.
+
+
+</serialization>
+
+
+
+Note: String objects are stored in a special memory area known as string constant pool.
