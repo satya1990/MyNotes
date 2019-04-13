@@ -1,0 +1,10 @@
+*.class
+*.html
+*.css
+target/
+/out
+.settings/
+/bin
+
+
+

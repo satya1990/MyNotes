@@ -1,0 +1,4 @@
+sample file
+Scanner to read from file Name
+one more line
+one more line
